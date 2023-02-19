@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1aaf",
+        "image": "./img/cube-hybrid.png",
+        "title": "ROAD BIKE - ZERO",
+        "price": "25$"
+    },
+    {
+        "id": "2452asd",
+        "image": "./img/mountain-bike.png",
+        "title": "MOUNTAIN BIKE - 3F1",
+        "price": "30$"
+    },
+    {
+        "id": "3asd1234",
+        "image": "./img/urabn-bike.png",
+        "title": "URBAN BIKE - CITY-F1",
+        "price": "15$"
+    },
+    {
+        "id": "ss21as",
+        "title": "Mountain Bike - 1f1",
+        "price": "15$",
+        "image": "./img/bike1.png"
+    },
+    {
+        "id": "fs212s",
+        "title": "Mountain Bike - 4f1",
+        "price": "10$",
+        "image": "./img/bike2.png"
+    },
+    {
+        "id": "su21as",
+        "title": "Urban Bike - 1f1",
+        "price": "30$",
+        "image": "./img/bike4.png"
+    },
+    {
+        "id": "fu212s",
+        "title": "Urban Bike - 6f1",
+        "price": "20$",
+        "image": "./img/bike5.png"
+    },
+    {
+        "id": "ku21fs",
+        "title": "Urban Bike - 5f1",
+        "price": "10$",
+        "image": "./img/bike6.png"
+    },
+    {
+        "id": "sr21as",
+        "title": "Road Bike - 1f1",
+        "price": "5$",
+        "img": "./img/bike7.png"
+    },
+    {
+        "id": "fr212s",
+        "title": "Road Bike - 4f1",
+        "price": "15$",
+        "image": "./img/bike8.png"
+    },
+    {
+        "id": "kr21fs",
+        "title": "Road Bike - 2f1",
+        "price": "25$",
+        "image": "./img/bike9.png"
+    }
+]

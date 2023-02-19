@@ -1,0 +1,56 @@
+[
+    {
+        "id": "ss21as",
+        "name": "Mountain Bike - 1f1",
+        "price": "15$",
+        "img": "./img/bike1.png"
+    },
+    {
+        "id": "fs212s",
+        "name": "Mountain Bike - 4f1",
+        "price": "10$",
+        "img": "./img/bike2.png"
+    },
+    {
+        "id": "ks21fs",
+        "name": "Mountain Bike - 2f1",
+        "price": "20$",
+        "img": "./img/bike3.png"
+    },
+    {
+        "id": "su21as",
+        "name": "Urban Bike - 1f1",
+        "price": "30$",
+        "img": "./img/bike4.png"
+    },
+    {
+        "id": "fu212s",
+        "name": "Urban Bike - 6f1",
+        "price": "20$",
+        "img": "./img/bike5.png"
+    },
+    {
+        "id": "ku21fs",
+        "name": "Urban Bike - 5f1",
+        "price": "10$",
+        "img": "./img/bike6.png"
+    },
+    {
+        "id": "sr21as",
+        "name": "Road Bike - 1f1",
+        "price": "5$",
+        "img": "./img/bike7.png"
+    },
+    {
+        "id": "fr212s",
+        "name": "Road Bike - 4f1",
+        "price": "15$",
+        "img": "./img/bike8.png"
+    },
+    {
+        "id": "kr21fs",
+        "name": "Road Bike - 2f1",
+        "price": "25$",
+        "img": "./img/bike9.png"
+    }
+]

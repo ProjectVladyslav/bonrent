@@ -1,0 +1,29 @@
+[
+    {
+        "id": "2414",
+        "image": "./img/team1.png",
+        "name": "Jake Deniel",
+        "position": "Founder PIKEZ",
+        "facebook_url": "https://uk-ua.facebook.com",
+        "instagram_url": "https://www.instagram.com",
+        "twitter_url": "https://twitter.com/?lang=uk"
+    },
+    {
+        "id": "2412",
+        "image": "./img/team2.png",
+        "name": "Will Smith",
+        "position": "CEO pikez",
+        "facebook_url": "https://uk-ua.facebook.com",
+        "instagram_url": "https://www.instagram.com",
+        "twitter_url": "https://twitter.com/?lang=uk"
+    },
+    {
+        "id": "2512",
+        "image": "./img/team3.png",
+        "name": "Jonson Mag",
+        "position": "Research division",
+        "facebook_url": "https://uk-ua.facebook.com",
+        "instagram_url": "https://www.instagram.com",
+        "twitter_url": "https://twitter.com/?lang=uk"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1aaf",
+        "image": "./img/cube-hybrid.png",
+        "title": "ROAD BIKE - ZERO",
+        "weight": "10 KG",
+        "wheel": "700C",
+        "chain": "KMC X-11",
+        "price": "25$",
+        "description": "lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    },
+    {
+        "id": "2452asd",
+        "image": "./img/mountain-bike.png",
+        "title": "MOUNTAIN BIKE - 3F1",
+        "weight": "8 KG",
+        "wheel": "750C",
+        "price": "30$",
+        "chain": "KMC X-25",
+        "description": "lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    },
+    {
+        "id": "3asd1234",
+        "image": "./img/urabn-bike.png",
+        "title": "URBAN BIKE - CITY-F1",
+        "weight": "15 KG",
+        "wheel": "560C",
+        "price": "15$",
+        "chain": "CHN M-12",
+        "description": "lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    }
+]
